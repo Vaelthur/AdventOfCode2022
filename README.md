@@ -4,3 +4,4 @@ Daily solution to challenges from adventofcode.com in Python.
 
 Day 1: **
 Day 2: **
+Day 3: **
